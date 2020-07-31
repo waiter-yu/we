@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.505e0007d1220e0a8f6f8f8350fa10fe.js"
+  "precache-manifest.315b54c564e41eace9e6268c01d715f1.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "wish-tree"});
